@@ -27,7 +27,7 @@
     "@types/react": "^18.3.14",
     "@types/react-dom": "^18.3.2",
     "@vercel/analytics": "^1.4.1",
-    "astro": "^4.16.17",
+    "astro": "^4.16.18",
     "astro-i18next": "1.0.0-beta.21",
     "astro-icon": "^1.1.4",
     "astro-pagefind": "^1.6.0",
